@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Pranav</h1>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+
+<a href="https://linkedin.com/in/adityapranavbhuvanapalli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Aditya Pranav Bhuvanapalli" height="30" width="30" /></a>
+</p>
 <!--
 **adityapranavbhuvanapalli/adityapranavbhuvanapalli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
