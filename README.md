@@ -31,7 +31,7 @@ Engineer by Profession. Artist by Passion. Always open to collaborating on proje
   <hr/>
   
   <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=adityapranavbhuvanapalli&column=8&theme=onedark" />
+    <img align="center" src="https://github-profile-trophy.vercel.app/?username=adityapranavbhuvanapalli&column=8&theme=onedark" />
   </div>
   
 </div>
