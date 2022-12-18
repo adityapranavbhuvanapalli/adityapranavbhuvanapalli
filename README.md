@@ -4,7 +4,7 @@
 
 ### Hi, I'm <a href="https://www.linkedin.com/in/adityapranavbhuvanapalli" target="_blank">Aditya Pranav Bhuvanapalli</a>!
 
-Engineer by Profession. Artist by Passion. A tech enthusiast always open to collaborating on projects and innovative and disruptive ideas. I am a self-taught pianist, guitarist and an [artist](https://www.instagram.com/aidenpaulbrewmann). You can find my music [here](https://www.instagram.com/adityapranavbhuvanapalli/).
+Engineer by Profession. Artist by Passion. Always open to collaborating on projects and innovative and disruptive ideas. I am a self-taught pianist, guitarist and an [artist](https://www.instagram.com/aidenpaulbrewmann). You can find my music [here](https://www.instagram.com/adityapranavbhuvanapalli/).
 
 
 ## Languages and Tools:
