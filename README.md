@@ -27,15 +27,18 @@ Engineer by Profession. Artist by Passion. Always open to collaborating on proje
     <br/>
     <i><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
   </div>
+  
+  <hr/>
+  
+  <div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=adityapranavbhuvanapalli&column=8&theme=onedark" />
+  </div>
+  
 </div>
 
-
-
 <!--
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityapranavbhuvanapalli" alt="adityapranavbhuvanapalli" /></a> </p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityapranavbhuvanapalli&" alt="adityapranavbhuvanapalli" /></p> -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityapranavbhuvanapalli&" alt="Pranav's Streak Stats" /></p> 
+-->
 
 <br />
 <img src="https://github.com/adityapranavbhuvanapalli/adityapranavbhuvanapalli/blob/main/endbanner.png">
