@@ -1,3 +1,4 @@
+<img src="https://github.com/adityapranavbhuvanapalli/adityapranavbhuvanapalli/blob/main/EatSleepCodeRepeatBanner.gif">
 <h1 align="center">Hi 👋, I'm Pranav</h1>
 <h3 align="center">Engineer by Profession, Artist by Passion.</h3>
 
