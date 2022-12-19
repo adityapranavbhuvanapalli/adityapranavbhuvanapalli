@@ -36,6 +36,7 @@ Engineer by Profession. Artist by Passion. Always open to collaborating on proje
   
 </div>
 ### Watch the Snake eat my contributions
+
 ![Snake animation](https://github.com/adityapranavbhuvanapalli/adityapranavbhuvanapalli/blob/output/github-contribution-grid-snake.svg)
 
 <!--
