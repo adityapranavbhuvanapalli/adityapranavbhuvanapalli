@@ -36,14 +36,15 @@ Engineer by Profession. Artist by Passion. Open to collaborating on projects and
   
 </div>
 
+<!--
 ### Watch the Snake eat my contributions
 
 ![Snake animation](https://github.com/adityapranavbhuvanapalli/adityapranavbhuvanapalli/blob/output/github-contribution-grid-snake.svg)
 
-<!--
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityapranavbhuvanapalli&" alt="Pranav's Streak Stats" /></p> 
 
 <br />
-<img src="https://github.com/adityapranavbhuvanapalli/adityapranavbhuvanapalli/blob/main/endbanner.png">
 -->
+<img src="https://github.com/adityapranavbhuvanapalli/adityapranavbhuvanapalli/blob/main/endbanner.png">
+
 
